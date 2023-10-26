@@ -1,0 +1,12 @@
+*.rpyc
+
+*.rpa
+characters/
+saves/
+tl/
+cache/
+gui/
+audio/
+image/
+saves/
+.vscode/
